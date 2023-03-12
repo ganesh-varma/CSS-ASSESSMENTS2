@@ -1,0 +1,215 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-image:url(./13443416_5243451.jpg);
+    border: 10px groove green;
+    
+    
+}
+.form{
+    background-color: aliceblue;
+    border: 5px dashed red;
+    text-align: center;
+    width: 30%;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: red;
+    margin-left: 40px;
+   
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 20px;
+    position: relative;
+    
+}
+.block1{
+    background-color: black;
+    position: relative;
+    color: white;
+    border: 4px solid red;
+    border-radius: 20px;
+    text-align: center;
+    padding: 20px 20px 40px 20px;
+}
+.block2{
+    position:absolute;
+    background-color: black;
+    color: white;
+    border: 4px solid red;
+    border-radius: 40px;
+    padding: 40px 50px 30px 90px;
+    height: 10px;
+    margin-left: 300px;
+    margin-top: 10px;
+}
+.block3{
+    background-color: black;
+    color: white;
+    border: 4px solid red;
+    border-radius: 20px;
+    padding: 10px 40px 0px 40px;
+}
+
+
+.container2{
+    display: flex;
+    flex-direction: row;
+    /* justify-content:space-around; */
+    margin-top: 40px;
+    
+}
+
+.circle{
+    text-align: center;
+    background-color: rgb(67, 109, 95);
+    border: 10px solid gray;
+    border-radius: 50%;
+    height: 360px;
+    width: 360px;
+    /* justify-content: center; */
+    margin-left: 40px;
+    margin-right: 180px;
+    margin-top: 200px;
+}
+.b1{
+    margin: 20px;
+    text-decoration:underline;
+    font-style: italic;
+}
+.b2{
+    margin: 20px;
+    text-decoration: underline;
+    font-style: italic;
+}
+.b3{
+    margin: 20px;
+    text-decoration: underline;
+    font-style:italic;
+}
+input{
+    text-align: center;
+}
+.matter{
+    padding: 40px 10px 20px 10px;
+}
+.menu{
+    background-color: black;
+    color: white;
+    border: 4px solid red;
+    border-radius: 20px;
+    text-align: center;
+    width: 400px;
+    height: 80px;
+    justify-content:center;
+    margin-left: 540px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.menup{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    justify-content: center;
+}
+.section1{
+    justify-content:center;
+  display: flex;
+   flex-direction: row;
+   margin-top: 25px;
+}   
+   .card1{
+    border: 4px solid green;
+    border-radius: 30px;
+    background-color: aqua;
+    width: 350px;
+    color: indigo;
+    text-align: center;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.card2{
+    border: 4px solid green;
+    border-radius: 30px;
+    background-color: aqua;
+    width: 350px;
+    color: indigo;
+    text-align: center;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.card3{
+    border: 4px solid green;
+    border-radius: 30px;
+    background-color: aqua;
+    width: 350px;
+    color: indigo;
+    text-align: center;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.section2{
+    justify-content:center;
+  display: flex;
+   flex-direction: row;
+   
+}   
+   .card4{
+    border: 4px solid green;
+    border-radius: 30px;
+    background-color: aqua;
+    width: 350px;
+    color: indigo;
+    text-align: center;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.card5{
+    border: 4px solid green;
+    border-radius: 30px;
+    background-color: aqua;
+    width: 350px;
+    color: indigo;
+    text-align: center;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.card6{
+    /* position: absolute; */
+    border: 4px solid green;
+    border-radius: 30px;
+    background-color: aqua;
+    width: 350px;
+    color: indigo;
+    text-align: center;
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.c1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.li{
+   padding: 25px;
+
+}
